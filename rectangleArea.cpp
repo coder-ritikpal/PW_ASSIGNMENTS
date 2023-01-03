@@ -8,7 +8,7 @@ int main(){
  int Area;
  Area=length*breadth;
 
- cout<<"Area of rectangle is:"<<Area;
+ cout<<"Area of rectangle is:"<<Area<<" sq.unit";
 
  
 return 0;
