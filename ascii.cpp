@@ -5,6 +5,6 @@ int main(){
  cout<<"Enter the character:";
  cin>>c;
 
- cout<< (int)c;
+ cout<<"Ascii value is:"<<(int)c;
 return 0;
 }
