@@ -1,1 +1,0 @@
-//Sizes of fundamental data types.
