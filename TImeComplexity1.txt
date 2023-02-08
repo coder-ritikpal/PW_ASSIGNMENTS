@@ -1,0 +1,10 @@
+void function(int n){
+    int i = 1, s = 1;
+    while (s < n) {
+        s = s + i;
+        i++;
+    }
+}
+
+
+TIME COMPLEXITY=O(root of n)
