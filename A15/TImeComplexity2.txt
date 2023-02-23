@@ -1,0 +1,13 @@
+void fun(int n){
+
+    if (n < 5) {
+        cout<<”College Wallah”;
+    } else {
+        for (int i = 0; i < n; i++) {
+            cout<<i+” “;
+        }
+    }
+}
+
+
+TIME COMPLEXITY=O(n).
